@@ -19,7 +19,7 @@ class UsersTableSeeder extends Seeder
                 'first_name' => 'ganesh',
                 'last_name' => 'khadka',
                 'role' => 'admin',
-                'email' => 'ganeshkhadka46@gmail.com',
+                'email' => 'admin@gmail.com',
                 'password' => bcrypt('admin123'),
                 'status' => '1',
                 'phone' => '9866567794',
